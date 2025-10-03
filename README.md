@@ -1,1 +1,1 @@
-# Facial-Emotion-Recognition-using-CNN
+This is a guided project created for the Warwick AI Society. As the Head of Projects, I designed this repository to provide a clear, step-by-step walkthrough for building a Convolutional Neural Network (CNN) pipeline that can classify human emotions as happy or sad from facial images.
