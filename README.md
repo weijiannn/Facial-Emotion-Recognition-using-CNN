@@ -4,7 +4,7 @@ This project uses a Convolutional Neural Network (CNN) to classify human emotion
 
 ⚙️ Tools
 
-Python · TensorFlow/Keras · OpenCV · NumPy
+Python, TensorFlow/Keras, OpenCV, NumPy
 
 🚀 Highlights
 
