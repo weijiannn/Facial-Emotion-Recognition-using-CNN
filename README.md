@@ -1,1 +1,1 @@
-This project demonstrates a facial emotion recognition system built using a Convolutional Neural Network (CNN). It provides a clear, step-by-step pipeline for classifying happy and sad emotions from facial images, showcasing practical skills in computer vision and deep learning.
+Classifying human emotions from facial images is an exciting application of computer vision. This project uses a Convolutional Neural Network (CNN) in Python to predict whether a person is happy or sad based on pre-processed facial images.
